@@ -10,6 +10,10 @@ import java.util.Random;
  * An implementation of the MTG interface that uses a list of lists.
  * @author UC San Diego Intermediate Programming MOOC team 
  */
+/*
+The train, getListNode, retrain and getRandomNextWord methods
+were implemented by Ameya Phansalkar
+*/
 public class MarkovTextGeneratorLoL implements MarkovTextGenerator {
 
 	// The list of words with their next words
